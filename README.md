@@ -25,3 +25,4 @@ A simple desktop task manager built with Python and CustomTkinter.
    `python -m pip install customtkinter`
 3. Run the application:
    `python main.py`
+Updated directly from PyCharm!
